@@ -12,5 +12,5 @@ Usage: ruby challenge101.rb [-a][-b]
 
 -b     Create a program that will read the generated file above and print to 
        the console the object and its type. Spaces before and after the 
-      alphanumeric object must be stripped.
+       alphanumeric object must be stripped.
 ```
